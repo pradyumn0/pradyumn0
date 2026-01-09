@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Praduman Singh Jadon
+# 👋 Hi, I'm Praduman Jadon
 
 🚀 **Full Stack / Backend Developer (MERN Stack)**  
 💻 Passionate about building scalable backend systems, clean APIs, and modern web applications.
@@ -79,9 +79,8 @@
 
 ## 🤝 Let’s Connect
 
-- 💼 LinkedIn: *(add your link here)*  
-- 📧 Email: *(add your email here)*  
-- 🌐 Portfolio: *(optional)*  
+- 💼 LinkedIn: *(www.linkedin.com/in/praduman-jadon)*  
+- 🌐 Portfolio: *(https://prady-portfolio.netlify.app/)*  
 
 ---
 
