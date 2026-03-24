@@ -19,7 +19,7 @@
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: *(www.linkedin.com/in/praduman-jadon)*  
-- 🌐 Portfolio: *(https://prady-portfolio.netlify.app/)*  
+- 🌐 Portfolio: *(https://praduman-jadon.netlify.app/)*  
 
 ---
 
